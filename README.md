@@ -1,2 +1,2 @@
 "# Projects" 
-"# Landing-Page" 
+"# Calculator made using HTML CSS & JavaScript" 
